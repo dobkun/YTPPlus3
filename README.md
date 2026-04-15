@@ -149,7 +149,7 @@ These people have helped make YTP+ and its successors possible:
 - [DeeMacias](https://www.youtube.com/channel/UCAoRaLkle7tcUvr9oKlLgDw): Plugin development and general help
 - [0znə](https://www.youtube.com/channel/UC7-Jkq6BHMxBOHNzkLXRi8g): Discord moderation and continued involvement
 - [Spiral](https://github.com/Spiral2839): Discord moderation and continued involvement
-- [dobkun] (https://github.com/dobkun_): unmangling the repo after the dev moved onto harvesting money by making the "so-called FOSS" impossible to use.
+- [dobkun](https://github.com/dobkun): unmangling the repo after the dev moved onto harvesting money by making the "so-called FOSS" impossible to use.
 
 ## Contributing
 
