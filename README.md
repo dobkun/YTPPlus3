@@ -24,7 +24,7 @@ You must have administrator privileges to use this method.
 
 #### Steps
 
-1. Open the [deployment script](https://raw.githubusercontent.com/YTP-Plus/YTPPlusPlusPlus/main/deploy_ytpplusplusplus.ps1) in a new tab.
+1. Open the [deployment script](https://raw.githubusercontent.com/dobkun/YTPPlus3/main/deploy_ytpplusplusplus.ps1) in a new tab.
 1. Select all of the text and copy it.
 1. Open PowerShell as an administrator.
 1. Paste the text into the PowerShell window.
@@ -43,7 +43,7 @@ You must have administrator privileges to use this method.
 ### Manual Installation
 
 1. Download and install the required [prerequisites](#prerequisites).
-1. Download the latest release from the [releases page](https://github.com/YTP-Plus/YTPPlusPlusPlus/releases).
+1. Download the latest release from the [releases page](https://github.com/dobkun/YTPPlus3/releases).
 1. Extract the zip file to a directory that does not include spaces in the path.
     - For example, `C:\YTPPlusPlusPlus` is a good path, but `C:\Program Files\YTPPlusPlusPlus` is not.
 1. Run `YTP+++.exe`.
