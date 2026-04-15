@@ -82,6 +82,9 @@ namespace YTPPlusPlusPlus
             "If you are sensitive to flashing lights,",
             "please do not use this program.",
             " ",
+            "also, this project is no longer maintained.",
+            "don't ask for help on GitHub, PLEASE",
+            " ",
             "Click anywhere to continue."
         };
         public void Show()
